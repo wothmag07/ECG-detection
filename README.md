@@ -16,7 +16,9 @@ This GitHub repo contains a deep learning project focused on detecting arrhythmi
 # Dataset
 Kaggle - ECG Heartbeat Categorization Dataset | [Link](https://www.kaggle.com/datasets/shayanfazeli/heartbeat)
 
-MIT-BIH Arrhythmia Dataset
+This dataset consist of 2 types of datasets. i.e. MIT-BIH Arrhythmia Dataset and PTB Diagnostic ECG dataset. In this, I considered arrhythmia dataset for building my project.
+
+Dataset info:
 
 Number of Samples: 109446
 
