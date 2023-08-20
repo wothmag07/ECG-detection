@@ -66,6 +66,12 @@ Use the ECG extraction folder and circuit diagram for implementing this segment 
 
 For training the model, edit the path directory of dataset and path where the model has to be placed and run the notebook. You can twirk hyperparameter values for seeing the performance of the model.
 
+# References:
+- [Medium](https://medium.com/)
+- [Kaggle](https://www.kaggle.com/datasets/shayanfazeli/heartbeat)
+- [Blog on ECG signal extraction](https://circuitdigest.com/microcontroller-projects/understanding-ecg-sensor-and-program-ad8232-ecg-sensor-with-arduino-to-diagnose-various-medical-conditions)
+- Paper publication on Arrhythmia detection by Acharya
+
 
 
 
