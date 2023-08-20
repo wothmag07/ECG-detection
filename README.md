@@ -6,7 +6,7 @@ This GitHub repo contains a deep learning project focused on detecting arrhythmi
 - [Project Overview](#project-overview)
 - [Dataset](#dataset)
 - [Features](#features)
-- [Installation](#installation)
+- [Pre-requisites](#pre-requisites)
 - [Usage](#usage)
 
 # Project Overview
@@ -37,5 +37,28 @@ Classes: ['N': 0, 'S': 1, 'V': 2, 'F': 3, 'Q': 4]
 -F : Fusion Beats
 
 -Q : Unknown Beats
+
+# Features
+
+Feature 1 :
+  Extracting ECG signals from humans using ECG AD8252 sensor along with arduino UNO. This can also be implemented using ESP32 module.
+
+  This is how the connectivity looks like:
+
+  ![ECG-Monitoring-system-using-AD8232-with-Arduino](https://github.com/wothmag07/ECG-detection/assets/68963222/be5ebba3-08c9-40d8-b8b5-2a7d766780c0)
+
+
+  I have included a live video demo under ECG extraction folder.
+
+
+# Pre-requisites
+
+
+
+Use Python 3.8.13. Setup conda environment, git clone repo and run the below commands,
+
+pip install -r requirements.txt
+
+
 
 
