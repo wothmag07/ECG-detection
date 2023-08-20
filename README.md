@@ -16,3 +16,24 @@ This GitHub repo contains a deep learning project focused on detecting arrhythmi
 # Dataset
 Kaggle - ECG Heartbeat Categorization Dataset | [Link](https://www.kaggle.com/datasets/shayanfazeli/heartbeat)
 
+MIT-BIH Arrhythmia Dataset
+
+Number of Samples: 109446
+
+Number of Categories: 5
+
+Sampling Frequency: 125Hz
+
+Classes: ['N': 0, 'S': 1, 'V': 2, 'F': 3, 'Q': 4]
+
+-N : Non-ecotic beats (normal beat)
+
+-S : Supraventricular ectopic beats
+
+-V : Ventricular ectopic beats
+
+-F : Fusion Beats
+
+-Q : Unknown Beats
+
+
