@@ -48,10 +48,7 @@ Feature 1 :
 
   ![Circuit-DiagramConnection-between-Arduino-and-ECG-Sensor-AD8232](https://github.com/wothmag07/ECG-detection/assets/68963222/56134468-b1b8-4079-8053-2532c10189f9)
 
-  ![ECG-Monitoring-system-using-AD8232-with-Arduino](https://github.com/wothmag07/ECG-detection/assets/68963222/be5ebba3-08c9-40d8-b8b5-2a7d766780c0)
-
-
-  I have included a live video demo under ECG extraction folder.
+  I have included a live video demo under ECG extraction folder. [Link]()
 
 Feature 2:
   Trained a model with deep convolutional neural network architecture for detecting the type of arrhythmic condition.
