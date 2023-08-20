@@ -11,7 +11,7 @@ This GitHub repo contains a deep learning project focused on detecting arrhythmi
 
 # Project Overview
 
-
+This GitHub repository contains a machine learning project focused on ECG (Electrocardiogram) arrhythmia detection. The project provides a comprehensive implementation of an algorithm for detecting arrhythmias (abnormal heart rhythms) using electrocardiogram (ECG) data. This project includes pre-processing steps, deep learning model architectures (such as CNN), and evaluation metrics to accurately classify ECG signals into different arrhythmia categories. The repository offers a complete package for researchers, developers, and healthcare professionals interested in ECG analysis and arrhythmia detection, facilitating the development of reliable and efficient tools for identifying irregular heartbeats from ECG recordings.
 
 # Dataset
 Kaggle - ECG Heartbeat Categorization Dataset | [Link](https://www.kaggle.com/datasets/shayanfazeli/heartbeat)
@@ -50,7 +50,7 @@ __Feature 1 :__
   I have included a live video demo under ECG extraction folder. [Link](https://github.com/wothmag07/ECG-detection/tree/main/ECG%20extraction/Human%20Sample%20ECG)
 
 __Feature 2:__
-  Trained a model with deep convolutional neural network architecture for detecting the type of arrhythmic condition.
+  Trained a model with deep convolutional neural network architecture in tensorflow framework for detecting the type of arrhythmic condition.
 
 
 # Pre-requisites
