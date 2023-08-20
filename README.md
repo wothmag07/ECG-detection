@@ -21,15 +21,21 @@ This dataset consist of 2 types of datasets. i.e. MIT-BIH Arrhythmia Dataset and
 __Dataset info:__
 
 Number of Samples: 109446
+
 Number of Categories: 5
+
 Sampling Frequency: 125Hz
 
 Classes: ['N': 0, 'S': 1, 'V': 2, 'F': 3, 'Q': 4]
 
 -N : Non-ecotic beats (normal beat)
+
 -S : Supraventricular ectopic beats
+
 -V : Ventricular ectopic beats
+
 -F : Fusion Beats
+
 -Q : Unknown Beats
 
 # Features
