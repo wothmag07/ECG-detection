@@ -9,6 +9,10 @@ This GitHub repo contains a deep learning project focused on detecting arrhythmi
 - [Installation](#installation)
 - [Usage](#usage)
 
+# Project Overview
+
+
+
 # Dataset
-Kaggle - ECG Heartbeat Categorization Dataset | https://www.kaggle.com/datasets/shayanfazeli/heartbeat
+Kaggle - ECG Heartbeat Categorization Dataset | [Link](https://www.kaggle.com/datasets/shayanfazeli/heartbeat)
 
