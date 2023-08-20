@@ -8,6 +8,7 @@ This GitHub repo contains a deep learning project focused on detecting arrhythmi
 - [Features](#features)
 - [Pre-requisites](#pre-requisites)
 - [Usage](#usage)
+- [References](#references)
 
 # Project Overview
 
@@ -53,11 +54,16 @@ Feature 1 :
 
 # Pre-requisites
 
-
-
-Use Python 3.8.13. Setup conda environment, git clone repo and run the below commands,
+Use Python 3.8.5. Setup conda environment, git clone repo and run the below commands,
 
 pip install -r requirements.txt
+
+For extracting ECG signals, you need hardware components. i.e, Arduino UNO/ESP32/ESP8266 , ECG sensor(AD8232), connecting wires, ECG electrodes and software tools like Arduino IDE and Pycharm.
+
+Use the ECG extraction folder and circuit diagram for implementing this segment.
+
+For training the model, edit the path directory of dataset and path where the model has to be placed and run the notebook. You can twirk hyperparameter values for seeing the performance of the model.
+
 
 
 
