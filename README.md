@@ -46,10 +46,15 @@ Feature 1 :
 
   This is how the connectivity looks like:
 
+  ![Circuit-DiagramConnection-between-Arduino-and-ECG-Sensor-AD8232](https://github.com/wothmag07/ECG-detection/assets/68963222/56134468-b1b8-4079-8053-2532c10189f9)
+
   ![ECG-Monitoring-system-using-AD8232-with-Arduino](https://github.com/wothmag07/ECG-detection/assets/68963222/be5ebba3-08c9-40d8-b8b5-2a7d766780c0)
 
 
   I have included a live video demo under ECG extraction folder.
+
+Feature 2:
+  Trained a model with deep convolutional neural network architecture for detecting the type of arrhythmic condition.
 
 
 # Pre-requisites
@@ -60,7 +65,7 @@ pip install -r requirements.txt
 
 For extracting ECG signals, you need hardware components. i.e, Arduino UNO/ESP32/ESP8266 , ECG sensor(AD8232), connecting wires, ECG electrodes and software tools like Arduino IDE and Pycharm.
 
-Use the ECG extraction folder and circuit diagram for implementing this segment.
+Use the ECG extraction folder and circuit diagram for implementing this segment and set the baud rate to 9600 in arduino ide for viewing the ECG signal.
 
 For training the model, edit the path directory of dataset and path where the model has to be placed and run the notebook. You can twirk hyperparameter values for seeing the performance of the model.
 
